@@ -1,7 +1,5 @@
 # -Linear-Regression-Model-Housing.csv
 
-# Linear Regression Project
-
 ## Description
 This project implements a simple linear regression model to predict housing prices based on various features. The project uses Python's scikit-learn library and includes data preprocessing, model training, and evaluation steps.
 
